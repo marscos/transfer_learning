@@ -1,2 +1,2 @@
-# transfer_learning
-TP2 Aprendizado de Máquina
+# Transfer Learning
+Trabalho Prático de Aprendizado de Máquina
